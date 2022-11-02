@@ -1,0 +1,23 @@
+[
+    {
+        "question" : "De que color es el sol",
+        "answerCorrect"   : "Amarillo",
+        "answer1" : "Verde",
+        "answer2" : "Gris",
+        "answer3" : "Rojo"
+    },
+    {
+        "question" : "De que color es la luna",
+        "answerCorrect"   : "Blanco",
+        "answer1" : "No tiene color",
+        "answer2" : "Rosado",
+        "answer3" : "Negro"
+    },
+    {
+        "question" : "De que color es el coex",
+        "answerCorrect"   : "verde",
+        "answer1" : "morado",
+        "answer2" : "rojo",
+        "answer3" : "negro"
+    }
+]
